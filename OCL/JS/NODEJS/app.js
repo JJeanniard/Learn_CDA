@@ -1,0 +1,1 @@
+const condition = require("./conditions.js");
