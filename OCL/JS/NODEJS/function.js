@@ -48,7 +48,7 @@ porterVaria = function () {
  */
 let i;
 i = 0;
-
+//fonction anonime
 let recursive = function () {
   
   if (i < 100) {
@@ -61,3 +61,18 @@ let recursive = function () {
 };
 
 recursive();
+/**
+ * Fonction qui dans une sandbox et qui est standolone (qui s'execute toute seul)
+ */
+(function(){
+    console.log('Hello World');
+})();
+
+/**
+ * Retourner une valeur qui est recuperer par un fonction auto run
+ */
+let sayHello = (function(){
+  return "Bonjour";  
+})();
+
+console.log(sayHello);
