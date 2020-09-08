@@ -16,3 +16,12 @@ console.log(myArray[1]);
 //ajoute une valeur dans le tableau
 myArray.push('tutu');
 console.log(myArray[myArray.length-1]);
+//myArray.shift(); // Retire le premiere de la liste
+//myArray.pop(); // Retire le dernier de la liste
+
+console.log(myArray); // Affiche la liste
+
+let i;
+for(i = 0; i < myArray.length; i++){
+    console.log(myArray[i]);
+}
