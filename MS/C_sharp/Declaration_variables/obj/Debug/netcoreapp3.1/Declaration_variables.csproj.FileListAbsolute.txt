@@ -1,0 +1,12 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\obj\Debug\netcoreapp3.1\Declaration_variables.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\obj\Debug\netcoreapp3.1\Declaration_variables.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\obj\Debug\netcoreapp3.1\Declaration_variables.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\bin\Debug\netcoreapp3.1\Declaration_variables.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\bin\Debug\netcoreapp3.1\Declaration_variables.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\bin\Debug\netcoreapp3.1\Declaration_variables.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\bin\Debug\netcoreapp3.1\Declaration_variables.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\bin\Debug\netcoreapp3.1\Declaration_variables.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\bin\Debug\netcoreapp3.1\Declaration_variables.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\obj\Debug\netcoreapp3.1\Declaration_variables.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\obj\Debug\netcoreapp3.1\Declaration_variables.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Declaration_variables\obj\Debug\netcoreapp3.1\Declaration_variables.genruntimeconfig.cache

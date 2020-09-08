@@ -1,0 +1,13 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.genruntimeconfig.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Binliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.csprojAssemblyReference.cache

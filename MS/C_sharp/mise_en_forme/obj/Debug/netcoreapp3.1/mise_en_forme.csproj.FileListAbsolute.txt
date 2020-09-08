@@ -1,0 +1,13 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\bin\Debug\netcoreapp3.1\mise_en_forme.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\bin\Debug\netcoreapp3.1\mise_en_forme.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\bin\Debug\netcoreapp3.1\mise_en_forme.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\bin\Debug\netcoreapp3.1\mise_en_forme.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\bin\Debug\netcoreapp3.1\mise_en_forme.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\bin\Debug\netcoreapp3.1\mise_en_forme.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\obj\Debug\netcoreapp3.1\mise_en_forme.csprojAssemblyReference.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\obj\Debug\netcoreapp3.1\mise_en_forme.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\obj\Debug\netcoreapp3.1\mise_en_forme.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\obj\Debug\netcoreapp3.1\mise_en_forme.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\obj\Debug\netcoreapp3.1\mise_en_forme.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\obj\Debug\netcoreapp3.1\mise_en_forme.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\mise_en_forme\obj\Debug\netcoreapp3.1\mise_en_forme.genruntimeconfig.cache

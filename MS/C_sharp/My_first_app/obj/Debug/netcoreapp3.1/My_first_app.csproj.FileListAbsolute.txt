@@ -1,0 +1,13 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\My_first_app.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\My_first_app.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\My_first_app.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\My_first_app.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\My_first_app.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\My_first_app.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\My_first_app.csprojAssemblyReference.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\My_first_app.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\My_first_app.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\My_first_app.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\My_first_app.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\My_first_app.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\My_first_app.genruntimeconfig.cache
