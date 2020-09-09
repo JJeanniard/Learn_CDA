@@ -1,3 +1,7 @@
+/**
+ * Le principe été de convertir un nombre en chaine de caractére,
+ * il n'y a pas la convertion sur la totalité du travail demander.
+ */
 let nb_int = 155;
 
 let tab_nb = {
