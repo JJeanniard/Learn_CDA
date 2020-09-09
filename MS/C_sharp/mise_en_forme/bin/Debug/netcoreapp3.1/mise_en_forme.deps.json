@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mise_en_forme/1.0.0": {
+        "runtime": {
+          "mise_en_forme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mise_en_forme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

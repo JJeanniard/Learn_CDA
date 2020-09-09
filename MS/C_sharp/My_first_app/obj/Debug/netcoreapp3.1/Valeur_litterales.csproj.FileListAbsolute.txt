@@ -1,0 +1,12 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\Valeur_litterales.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\Valeur_litterales.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\Valeur_litterales.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\Valeur_litterales.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\Valeur_litterales.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\bin\Debug\netcoreapp3.1\Valeur_litterales.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\Valeur_litterales.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\Valeur_litterales.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\Valeur_litterales.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\Valeur_litterales.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\Valeur_litterales.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\My_first_app\obj\Debug\netcoreapp3.1\Valeur_litterales.genruntimeconfig.cache

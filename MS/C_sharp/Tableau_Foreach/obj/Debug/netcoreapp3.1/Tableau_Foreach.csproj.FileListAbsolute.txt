@@ -1,0 +1,12 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\bin\Debug\netcoreapp3.1\Tableau_Foreach.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\bin\Debug\netcoreapp3.1\Tableau_Foreach.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\bin\Debug\netcoreapp3.1\Tableau_Foreach.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\bin\Debug\netcoreapp3.1\Tableau_Foreach.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\bin\Debug\netcoreapp3.1\Tableau_Foreach.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\bin\Debug\netcoreapp3.1\Tableau_Foreach.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\obj\Debug\netcoreapp3.1\Tableau_Foreach.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\obj\Debug\netcoreapp3.1\Tableau_Foreach.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\obj\Debug\netcoreapp3.1\Tableau_Foreach.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\obj\Debug\netcoreapp3.1\Tableau_Foreach.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\obj\Debug\netcoreapp3.1\Tableau_Foreach.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Tableau_Foreach\obj\Debug\netcoreapp3.1\Tableau_Foreach.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\bin\Debug\netcoreapp3.1\Conventions.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\bin\Debug\netcoreapp3.1\Conventions.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\bin\Debug\netcoreapp3.1\Conventions.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\bin\Debug\netcoreapp3.1\Conventions.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\bin\Debug\netcoreapp3.1\Conventions.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\bin\Debug\netcoreapp3.1\Conventions.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\obj\Debug\netcoreapp3.1\Conventions.csprojAssemblyReference.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\obj\Debug\netcoreapp3.1\Conventions.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\obj\Debug\netcoreapp3.1\Conventions.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\obj\Debug\netcoreapp3.1\Conventions.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\obj\Debug\netcoreapp3.1\Conventions.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\obj\Debug\netcoreapp3.1\Conventions.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\Conventions\obj\Debug\netcoreapp3.1\Conventions.genruntimeconfig.cache

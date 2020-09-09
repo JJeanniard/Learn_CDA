@@ -1,0 +1,13 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\bin\Debug\netcoreapp3.1\Logique.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\bin\Debug\netcoreapp3.1\Logique.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\bin\Debug\netcoreapp3.1\Logique.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\bin\Debug\netcoreapp3.1\Logique.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\bin\Debug\netcoreapp3.1\Logique.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\bin\Debug\netcoreapp3.1\Logique.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\obj\Debug\netcoreapp3.1\Logique.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\obj\Debug\netcoreapp3.1\Logique.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\obj\Debug\netcoreapp3.1\Logique.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\obj\Debug\netcoreapp3.1\Logique.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\obj\Debug\netcoreapp3.1\Logique.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\obj\Debug\netcoreapp3.1\Logique.genruntimeconfig.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\logique\obj\Debug\netcoreapp3.1\Logique.csprojAssemblyReference.cache

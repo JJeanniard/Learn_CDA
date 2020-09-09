@@ -1,0 +1,13 @@
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\bin\Debug\netcoreapp3.1\opérations.exe
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\bin\Debug\netcoreapp3.1\opérations.deps.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\bin\Debug\netcoreapp3.1\opérations.runtimeconfig.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\bin\Debug\netcoreapp3.1\opérations.runtimeconfig.dev.json
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\bin\Debug\netcoreapp3.1\opérations.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\bin\Debug\netcoreapp3.1\opérations.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\obj\Debug\netcoreapp3.1\opérations.csprojAssemblyReference.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\obj\Debug\netcoreapp3.1\opérations.AssemblyInfoInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\obj\Debug\netcoreapp3.1\opérations.AssemblyInfo.cs
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\obj\Debug\netcoreapp3.1\opérations.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\obj\Debug\netcoreapp3.1\opérations.dll
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\obj\Debug\netcoreapp3.1\opérations.pdb
+D:\jonat\Documents\GitHub\CRM\CDA_2005\FOAD\C#\C_sharp\opérations\obj\Debug\netcoreapp3.1\opérations.genruntimeconfig.cache
